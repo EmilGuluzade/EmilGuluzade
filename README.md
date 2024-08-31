@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <img height=200px src="https://avatars.githubusercontent.com/u/62157770?v=4"></br>
-  I ❤ C Langs. And my cute gf</br>
+  <img height=200px src="[https://avatars.githubusercontent.com/u/62157770?v=4](https://avatars.githubusercontent.com/u/139626288?v=4)"></br>
+  I ❤ React . And my cute gf</br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EmilGuluzade/EmilGuluzade/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/EmilGuluzade/EmilGuluzade/blob/output/github-contribution-grid-snake.svg" />
@@ -38,8 +38,4 @@
     <img src="https://skillicons.dev/icons?i=cpp,nextjs,electron,threejs,blender">
 </div>
 
-<div align=center>
-  <h2>🧧Contribution🧧</h2>
-  <a href="https://github.com/LelouchFR/skill-icons">skill-icons</a></br>
-  <a href="https://github.com/chriskthomas/linkfree-generator">linkfree-generator</a>
-</div>
+
