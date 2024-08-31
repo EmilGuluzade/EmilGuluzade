@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img height=200px src="[https://avatars.githubusercontent.com/u/62157770?v=4](https://avatars.githubusercontent.com/u/139626288?v=4)"></br>
+  <img height=200px src="https://avatars.githubusercontent.com/u/139626288?v=4"></br>
   I ❤ React . And my cute gf</br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake-dark.svg" />
