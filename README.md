@@ -29,11 +29,11 @@
 
 <div align=center>
   <h3>💎Programing Langs💎</h3>
-    <img src="https://skillicons.dev/icons?i=html,js,babel,ts,css,sass,bootstrap,tailwind,react,vite,md,nodejs,express,python,">
+    <img src="https://skillicons.dev/icons?i=html,js,babel,jquery,ts,css,sass,bootstrap,materialui,tailwind,react,vite,styledcomponents,md,nodejs,nestjs,express,python,">
   <h3>🧶Databases🧶</h3>
-   <img src="https://skillicons.dev/icons?i=mongodb">
+   <img src="https://skillicons.dev/icons?i=mongodb,postgres">
   <h3>🏏Tools🏏</h3>
-    <img src="https://skillicons.dev/icons?i=github,git,npm,vscode,visualstudio,postman,figma,netlify,vercel,stackoverflow,discord">
+    <img src="https://skillicons.dev/icons?i=github,git,githubactions,docker,npm,pnpm,vscode,visualstudio,postman,figma,netlify,vercel,androidstudio,stackoverflow,notion,discord">
   <h3>🎡Will Learn🎡</h3>
     <img src="https://skillicons.dev/icons?i=cpp,nextjs,electron,threejs,blender">
 </div>
